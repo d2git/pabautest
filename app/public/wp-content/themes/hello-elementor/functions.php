@@ -290,6 +290,8 @@ add_action('init', function() {
     $body = [
       'Fname' => sanitize_text_field($_POST['first_name']),
       'Lname' => sanitize_text_field($_POST['last_name']),
+	  'phone' => sanitize_text_field($_POST['phone']),
+  	  'message'    => sanitize_text_field($_POST['message']),
       'redirect_link'  => $redirect_link,
     ];
 
