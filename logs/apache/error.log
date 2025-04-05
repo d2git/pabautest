@@ -1,0 +1,56 @@
+[Fri Apr 04 14:46:47.638641 2025] [mpm_winnt:notice] [pid 23548:tid 616] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Apr 04 14:46:47.639639 2025] [mpm_winnt:notice] [pid 23548:tid 616] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Apr 04 14:46:47.639639 2025] [core:notice] [pid 23548:tid 616] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Fri Apr 04 14:46:47.651555 2025] [mpm_winnt:notice] [pid 23548:tid 616] AH00418: Parent: Created child process 9024
+[Fri Apr 04 14:46:49.206061 2025] [mpm_winnt:notice] [pid 9024:tid 844] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 04 14:54:18.704854 2025] [core:warn] [pid 10044:tid 3788] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 04 14:54:18.710716 2025] [mpm_winnt:notice] [pid 10044:tid 3788] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Apr 04 14:54:18.710716 2025] [mpm_winnt:notice] [pid 10044:tid 3788] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Apr 04 14:54:18.710716 2025] [core:notice] [pid 10044:tid 3788] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Fri Apr 04 14:54:18.710716 2025] [mpm_winnt:notice] [pid 10044:tid 3788] AH00418: Parent: Created child process 18168
+[Fri Apr 04 14:54:19.999308 2025] [mpm_winnt:notice] [pid 18168:tid 828] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 04 15:03:07.386216 2025] [core:warn] [pid 31404:tid 732] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 04 15:03:07.390614 2025] [mpm_winnt:notice] [pid 31404:tid 732] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Apr 04 15:03:07.390614 2025] [mpm_winnt:notice] [pid 31404:tid 732] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Apr 04 15:03:07.390614 2025] [core:notice] [pid 31404:tid 732] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Fri Apr 04 15:03:07.400948 2025] [mpm_winnt:notice] [pid 31404:tid 732] AH00418: Parent: Created child process 30888
+[Fri Apr 04 15:03:08.743798 2025] [mpm_winnt:notice] [pid 30888:tid 832] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 04 15:05:44.230041 2025] [core:warn] [pid 8928:tid 796] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 04 15:05:44.235182 2025] [mpm_winnt:notice] [pid 8928:tid 796] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Apr 04 15:05:44.235182 2025] [mpm_winnt:notice] [pid 8928:tid 796] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Apr 04 15:05:44.235182 2025] [core:notice] [pid 8928:tid 796] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Fri Apr 04 15:05:44.241165 2025] [mpm_winnt:notice] [pid 8928:tid 796] AH00418: Parent: Created child process 19392
+[Fri Apr 04 15:05:45.519212 2025] [mpm_winnt:notice] [pid 19392:tid 764] AH00354: Child: Starting 64 worker threads.
+[Sat Apr 05 11:49:47.818555 2025] [core:warn] [pid 10832:tid 756] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 05 11:49:47.840246 2025] [mpm_winnt:notice] [pid 10832:tid 756] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Apr 05 11:49:47.840246 2025] [mpm_winnt:notice] [pid 10832:tid 756] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Apr 05 11:49:47.840246 2025] [core:notice] [pid 10832:tid 756] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Sat Apr 05 11:49:47.869747 2025] [mpm_winnt:notice] [pid 10832:tid 756] AH00418: Parent: Created child process 23392
+[Sat Apr 05 11:49:49.429638 2025] [mpm_winnt:notice] [pid 23392:tid 816] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 05 14:11:04.528325 2025] [core:warn] [pid 18284:tid 776] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 05 14:11:04.534426 2025] [mpm_winnt:notice] [pid 18284:tid 776] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Apr 05 14:11:04.534426 2025] [mpm_winnt:notice] [pid 18284:tid 776] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Apr 05 14:11:04.534426 2025] [core:notice] [pid 18284:tid 776] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Sat Apr 05 14:11:04.546631 2025] [mpm_winnt:notice] [pid 18284:tid 776] AH00418: Parent: Created child process 33924
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 05 14:11:05.933975 2025] [mpm_winnt:notice] [pid 33924:tid 284] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 05 14:41:09.068841 2025] [core:warn] [pid 19944:tid 748] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 05 14:41:09.075387 2025] [mpm_winnt:notice] [pid 19944:tid 748] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Apr 05 14:41:09.076391 2025] [mpm_winnt:notice] [pid 19944:tid 748] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Apr 05 14:41:09.076391 2025] [core:notice] [pid 19944:tid 748] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Sat Apr 05 14:41:09.085361 2025] [mpm_winnt:notice] [pid 19944:tid 748] AH00418: Parent: Created child process 32740
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 05 14:41:10.439452 2025] [mpm_winnt:notice] [pid 32740:tid 844] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 05 16:34:52.721313 2025] [core:warn] [pid 4440:tid 624] AH00098: pid file C:/Users/Boki/AppData/Roaming/Local/run/DEhGYHO9R/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 05 16:34:52.731392 2025] [mpm_winnt:notice] [pid 4440:tid 624] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Apr 05 16:34:52.731392 2025] [mpm_winnt:notice] [pid 4440:tid 624] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Apr 05 16:34:52.731392 2025] [core:notice] [pid 4440:tid 624] AH00094: Command line: 'C:\\Users\\Boki\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+11\\bin\\win32\\bin\\httpd.exe -d C:/Users/Boki/AppData/Roaming/Local/lightning-services/apache-2.4.43+11/bin/win32 -D FOREGROUND -f C:\\Users\\Boki\\AppData\\Roaming\\Local\\run\\DEhGYHO9R\\conf\\apache\\apache2.conf'
+[Sat Apr 05 16:34:52.742217 2025] [mpm_winnt:notice] [pid 4440:tid 624] AH00418: Parent: Created child process 34800
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::64a8:8ca3:18fe:6187. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 05 16:34:54.270464 2025] [mpm_winnt:notice] [pid 34800:tid 828] AH00354: Child: Starting 64 worker threads.
